@@ -24,7 +24,7 @@
 - Onboarding
 - Sign in
 - Sign up
-- Forgot password
+- Forgot password 
 
 # Preview
 ![alt MyKEAZ Redesign Preview]([https://github.com/sebandroidev/Orabank-MyKeaz-Design-Concept/blob/main/preview.png])
