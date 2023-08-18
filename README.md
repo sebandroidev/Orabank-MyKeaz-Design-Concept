@@ -27,4 +27,4 @@
 - Forgot password 
 
 # Preview
-![alt MyKEAZ Redesign Preview]([https://github.com/sebandroidev/Orabank-MyKeaz-Design-Concept/blob/main/preview.png])
+![alt MyKEAZ Redesign Preview]([https://github.com/sebandroidev/Orabank-MyKeaz-Design-Concept/blob/3f8da368ae233941a84ce2f77d844be483bc1fc5/preview.png])
